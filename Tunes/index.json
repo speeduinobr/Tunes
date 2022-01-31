@@ -1,7 +1,7 @@
 [{
         "id": "1",
         "displayName": "Speeduino Base Tune",
-        "make": "Generico",
+        "make": "GENERICO",
         "firmware": 202202,
         "provider": "Speeduino",
         "type": "Stock",
