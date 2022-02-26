@@ -122,7 +122,7 @@
         "type": "Eder 202202BR-dev",
         "board": "v0.4",
         "description": "Especificações: Motor 1.6 Litros | Alimentação: Aspirado | Roda Fônica: Original 60-2 | Sensor Cranck: Hall | Ignição: Bobina Corsa| Bicos: ? | Sonda: Narrow | Sistema: Semi-Sequencial | Placa : Speeduino v0.4 | Firmware: 202202BR-dev",
-        "filename": "ELBA_1.6_GASOLINA.msq"
+        "filename": "ELBA_1.6_ALCOOL.msq"
     },
     {
         "id": "12",
