@@ -18,13 +18,13 @@
         "provider": "Wellington",
         "type": "Wellington Dev-BR",
         "board": "v0.4.3",
-        "description": "Especificações: Motor AP 2.0 | Alimentação: Turbo | Roda Fônica: Original 60-2 | Sensor Cranck: Hall | Ignição: Bobinas GOL G6 | Bicos: Bosch 108 Lbs |Sistema: Full Sequencial | Firmware: 202202BR-dev | Placa : Speeduino v0.4.3",    
+        "description": "Especificações: Motor AP 2.0 | Alimentação: Turbo | Roda Fônica: Original 60-2 | Sensor Cranck: Hall | Ignição: Bobinas GOL G6 | Bicos: Bosch 108 Lbs |Sistema: Full Sequencial | Firmware: 202202BR | Placa : Speeduino v0.4.3",    
         "filename": "SANTANA_AP_2.0_ TURBO_ALCOOL.msq"
     },
    
     {
         "id": "3",
-        "displayName": "Parati Turbo",
+        "displayName": "PARATI TURBO",
         "make": "VW",
         "firmware": 202202,
         "provider": "SpeedyECU",
